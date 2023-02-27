@@ -1,5 +1,5 @@
 # HOJA DE VIDA 
-![FOTOGRAFIA](https://github.com/yarlinson20/Hoja-de-vida---yarlinson-cossio/blob/main/95416a83-554f-4fdb-80d3-706b47153d2e.jpg)
+![FOTOGRAFIA](https://github.com/yarlinson20/Hoja-de-vida---yarlinson-cossio/blob/main/FOTO%20YARLINSON.png)
 ## INFORMACION PERSONAL
 |NOMBRES Y APELLIDOS|YARLINSON COSSIO NAVARRO|
 |----------------|-------------------------------|
@@ -15,7 +15,7 @@
 ## ESPERIENCIA LABORAL
 |NOMBRE DE LA EMPRESA|CENTRO INDUSTRIAL Y DE AVIACION SENA|
 |----------------|-------------------------------|
-|AÑOS O MESES DE EXPERIENCIA|6 MESES |          
+|AÑOS O MESES DE EXPERIENCIA|6 MESES|          
 |JEFE A CARGO|MILENA JINETE |
 
 ## REFERENCIAS PERSONALES 
