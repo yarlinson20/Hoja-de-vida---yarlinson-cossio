@@ -1,5 +1,5 @@
 # HOJA DE VIDA 
-[image](https://user-images.githubusercontent.com/126477157/221573582-a6f59321-85a5-4df7-9ecd-0de911e7cc84.png)
+![FOTOGRAFIA](https://github.com/yarlinson20/Hoja-de-vida---yarlinson-cossio/blob/main/95416a83-554f-4fdb-80d3-706b47153d2e.jpg)
 ## INFORMACION PERSONAL
 |NOMBRES Y APELLIDOS|YARLINSON COSSIO NAVARRO|
 |----------------|-------------------------------|
